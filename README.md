@@ -1,2 +1,3 @@
 # aura-sence
-proyecto en conjunto con ingenieria de sistemas
+proyecto de sensor meteorológico en conjunto con ingeniería de sistemas e electrónica.
+
